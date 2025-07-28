@@ -50,10 +50,10 @@ const HeroSection = () => {
                 onClick={handleCTAClick}
                 className="w-full md:w-auto"
               >
-                🎁 Claim Your FREE Package Now!
+                🎁 Buy Your Package Now!
               </Button>
               <p className="text-sm text-muted-foreground">
-                ⏰ <strong>Limited Time:</strong> Only a few free packages left!
+                ⏰ <strong>Limited Time:</strong> Only a few packages left!
               </p>
             </div>
           </div>
