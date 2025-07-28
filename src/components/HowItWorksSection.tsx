@@ -120,7 +120,7 @@ const HowItWorksSection = () => {
             size="xl" 
             onClick={handleCTAClick}
           >
-            Order Your Free Trial Bottle
+            Buy Your Package Now!
           </Button>
         </div>
       </div>

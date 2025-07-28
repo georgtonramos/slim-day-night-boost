@@ -110,7 +110,7 @@ const TestimonialsSection = () => {
             onClick={handleCTAClick}
             className="mb-4"
           >
-            🎁 Get Your FREE Trial Package
+            🎁 Order Your Slimming Tea Today!
           </Button>
           <p className="text-sm text-muted-foreground">
             ⚡ <strong>Hurry!</strong> This special offer expires soon

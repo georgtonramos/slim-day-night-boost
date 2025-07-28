@@ -38,7 +38,7 @@ const UrgencyBanner = () => {
             <Clock className="w-6 h-6" />
             <div>
               <p className="font-bold text-lg">🔥 LIMITED TIME OFFER!</p>
-              <p className="text-sm opacity-90">Only a few free packages remaining</p>
+              <p className="text-sm opacity-90">Hurry – only a few left in stock!</p>
             </div>
           </div>
           
@@ -66,7 +66,7 @@ const UrgencyBanner = () => {
               onClick={handleCTAClick}
               className="animate-pulse hover:animate-none"
             >
-              Claim Now!
+              Order Now!
             </Button>
           </div>
         </div>

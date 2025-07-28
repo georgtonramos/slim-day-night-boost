@@ -15,16 +15,16 @@ const Footer = () => {
             <ul className="space-y-2 text-background/80">
               <li><a href="#" className="hover:text-background transition-colors">Privacy Policy</a></li>
               <li><a href="#" className="hover:text-background transition-colors">Terms of Service</a></li>
-              <li><a href="#" className="hover:text-background transition-colors">Refund Policy</a></li>
+              {/*<li><a href="#" className="hover:text-background transition-colors">Refund Policy</a></li>*/}
             </ul>
           </div>
           
           <div>
             <h4 className="font-semibold mb-4">Contact</h4>
             <ul className="space-y-2 text-background/80">
-              <li>📧 support@alldayslimmingtea.com</li>
-              <li>📞 1-800-SLIM-TEA</li>
-              <li>🕒 Mon-Fri: 9AM-6PM EST</li>
+              <li>📧 contact@naturaleatinghub.online</li>
+              {/*<li>📞 1-800</li>*/}
+              <li>🕒 24h/7d</li>
             </ul>
           </div>
         </div>
@@ -38,7 +38,7 @@ const Footer = () => {
               <strong>Disclaimer:</strong> Individual results may vary. This product has not been evaluated by the FDA. Not intended to diagnose, treat, cure, or prevent any disease. Consult your healthcare provider before use.
             </p>
             <p className="text-xs text-background/40">
-              © 2024 All Day Slimming Tea Affiliate. All rights reserved.
+              © 2025 All Day Slimming Tea Affiliate. All rights reserved.
             </p>
           </div>
         </div>
