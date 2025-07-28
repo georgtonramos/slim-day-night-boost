@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { Sunrise, Moon, Coffee, Clock } from "lucide-react";
-import teaProduct from "@/assets/tea-product.jpg";
+import teaProduct from "@/assets/tea-product.webp";
 
 const HowItWorksSection = () => {
   const handleCTAClick = () => {
