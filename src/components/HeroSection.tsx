@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import heroImage from "@/assets/hero-tea-woman.jpg";
+import heroImage from "@/assets/hero-tea-woman.webp";
 
 const HeroSection = () => {
   const handleCTAClick = () => {
